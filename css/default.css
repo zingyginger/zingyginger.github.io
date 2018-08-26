@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+
 body {
-    font-family: Georgia, "Times New Roman", Times, Serif;
-    -webkit-font-smoothing: antialiased;
+	font-family: 'Noto Serif', Georgia, Times, Serif;
+	font-size: 16px;
 }
 
 
 h1 {
-    font-size: 1.6em;
-    font-variant: small-caps;
-    color: #000000;
+	 font-size: 1.6em;
+	 font-variant: small-caps;
+	 color: #000000;
 }
 
 h2 {
