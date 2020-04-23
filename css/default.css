@@ -101,6 +101,10 @@ td {
     color: #000000;
 }
 
+.dropdown.open {
+	background: #ffffff;
+}
+
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
     color: #ffffff;
     background-color: #005DAA;
