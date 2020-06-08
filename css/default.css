@@ -54,7 +54,7 @@ td {
     padding-right: 1em;
 }
 
-.container { 
+.container {
     /* padding-bottom: 1em; */
 }
 
@@ -157,8 +157,8 @@ td {
     float: left;
     display: block;
     padding: .5em 0 0 1em;
-    width: 100%;              
-    color: #FFFFFF; 
+    width: 100%;
+    color: #FFFFFF;
     background-color: #71A6D2;
     margin-top: .5em;
 }
@@ -228,3 +228,20 @@ td {
     text-align: center;
 }
 
+.btn {
+    background-color: #fff04b;
+    color: #00234b;
+    font-weight: 600;
+    font-size: 1.2em;
+    font-family: inherit;
+}
+
+.btn-info {
+    border-color: #71a6d2;
+}
+
+.btn-info:hover {
+    color: #fff;
+    background-color: #005daa;
+    border-color: #269abc;
+}
